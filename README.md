@@ -1,1 +1,1 @@
-https://github.com/zgames1/rsschool-cv/blob/gh-pages/cv.md
+[CV](https://github.com/zgames1/rsschool-cv/blob/gh-pages/cv.md)
